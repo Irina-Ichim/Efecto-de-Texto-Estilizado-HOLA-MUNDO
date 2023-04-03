@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background: black;
+    display: flex;
+    height: 100vh;
+
+}
+h1{
+    color:transparent;
+    margin: auto;
+    font-size: 120px;
+    -webkit-text-stroke: 1.5px white;
+}
